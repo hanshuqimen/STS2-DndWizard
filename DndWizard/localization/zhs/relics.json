@@ -1,0 +1,21 @@
+{
+  "DNDWIZARD-SPELLBOOK.title": "旅行法术书",
+  "DNDWIZARD-SPELLBOOK.description": "法术位 {Current}/{Capacity}。开局拥有 6 点法术位；跨战斗保留。营火选择休息恢复全部法术位；锻造不恢复。\n法术书 Lv.{Level}；研习 {Research}/{Next}（12 为满级）。获胜：普通 +1、精英 +2、首领 +3。3/7/12 经验升级，每级容量 +1 并填充新增容量。Lv.3 超限每缺位消耗 3 生命（此前 4）；Lv.4 解锁四阶升环。当前最高 {MaxTier} 阶，超限每缺位 {BloodCost} 生命，每战限一次。\n每回合最多一次：每施放两次戏法恢复 1 点法术位；未完成进度跨回合保留。",
+  "DNDWIZARD-SPELLBOOK.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-PEARL_OF_POWER.title": "法力珍珠",
+  "DNDWIZARD-PEARL_OF_POWER.description": "每场战斗开始时，恢复 2 点法术位，不超过当前上限。",
+  "DNDWIZARD-PEARL_OF_POWER.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-RUNIC_FOCUS.title": "符文法器",
+  "DNDWIZARD-RUNIC_FOCUS.description": "每次升环，获得 2 点格挡。",
+  "DNDWIZARD-RUNIC_FOCUS.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.title": "扩容法典",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.description": "法术位上限增加 2（不立即恢复法术位）。",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-CAMPFIRE_INCENSE.title": "营火熏香",
+  "DNDWIZARD-CAMPFIRE_INCENSE.description": "营火选择休息时，额外恢复 6 点生命。",
+  "DNDWIZARD-CAMPFIRE_INCENSE.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-EFFICIENT_FOCUS.title": "节能法器",
+  "DNDWIZARD-EFFICIENT_FOCUS.description": "每场战斗首次升环少消耗 1 点法术位，最低为 0。基础施法不消耗此机会。",
+  "DNDWIZARD-EFFICIENT_FOCUS.flavor": "知识就是力量，但力量需要准备。",
+  "DNDWIZARD-SPELLBOOK.restSiteHealText": "恢复全部法术位。"
+}

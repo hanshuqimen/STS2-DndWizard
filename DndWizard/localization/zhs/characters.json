@@ -1,0 +1,15 @@
+{
+  "DNDWIZARD-WIZARD.title": "法师",
+  "DNDWIZARD-WIZARD.titleObject": "法师",
+  "DNDWIZARD-WIZARD.description": "一位带着法术书踏入尖塔的奥术学者。\n以戏法应敌，消耗法术位升环，在专注与爆发之间作出选择。",
+  "DNDWIZARD-WIZARD.pronounSubject": "他",
+  "DNDWIZARD-WIZARD.pronounObject": "他",
+  "DNDWIZARD-WIZARD.pronounPossessive": "他的",
+  "DNDWIZARD-WIZARD.possessiveAdjective": "他的",
+  "DNDWIZARD-WIZARD.cardsModifierTitle": "法师卡牌",
+  "DNDWIZARD-WIZARD.cardsModifierDescription": "法师卡牌将出现在奖励和商店中。",
+  "DNDWIZARD-WIZARD.goldMonologue": "更多的抄写墨水。",
+  "DNDWIZARD-WIZARD.aromaPrinciple": "准备好了吗？",
+  "DNDWIZARD-WIZARD.banter.alive.endTurnPing": "下一步。",
+  "DNDWIZARD-WIZARD.banter.dead.endTurnPing": "知识长存。"
+}
