@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ShortMeditation",
+    "prompt": "Use case: illustration-story. Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard resting cross-legged beside a dungeon camp candle, eyes closed, two soft cyan wisps slowly condensing into crystals above an open spellbook. Quiet preparation.",
+    "tool": "built-in image_gen",
+    "source": "art-source/illustrations/ShortMeditation.png"
+  },
+  {
+    "id": "BurnScroll",
+    "prompt": "Use case: illustration-story. Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard holding a parchment scroll over a small blue flame; the curling ash transforms into two brilliant cyan magical crystals above his other hand, stone library background.",
+    "tool": "built-in image_gen",
+    "source": "art-source/illustrations/BurnScroll.png"
+  },
+  {
+    "id": "LifeConversion",
+    "prompt": "Use case: illustration-story. Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard presses one hand to his chest, a narrow crimson ribbon of life energy flows from a glowing ruby pendant into two cyan crystals in his outstretched hand. Strained yet determined expression, no blood, no wounds.",
+    "tool": "built-in image_gen",
+    "source": "art-source/illustrations/LifeConversion.png"
+  },
+  {
+    "id": "GreaterArcaneRecovery",
+    "prompt": "Use case: illustration-story. Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard standing within an ancient library, arms raised over a huge open spellbook as six brilliant cyan crystals refill from a sweeping luminous golden and turquoise arcane spiral. Powerful restoration.",
+    "tool": "built-in image_gen",
+    "source": "art-source/illustrations/GreaterArcaneRecovery.png"
+  },
+  {
+    "id": "PrepareSpell",
+    "prompt": "Use case: illustration-story. Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard studying a levitating open spellbook, carefully pulling a single glowing golden spell page into his hand while other pages hover in the dark library. Deliberate preparation.",
+    "tool": "built-in image_gen",
+    "source": "art-source/illustrations/PrepareSpell.png"
+  }
+]

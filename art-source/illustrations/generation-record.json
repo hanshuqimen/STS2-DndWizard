@@ -1,0 +1,228 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "purpose": "32 independent v0.2.0 card illustrations",
+  "seed": {
+    "id": "FireBolt",
+    "prompt": "Fire Bolt: elderly blue-robed wizard launches a lance of fire inside ruined crypt; landscape 4:3 painted gouache and ink, no text or frame.",
+    "source": "art-source/illustrations/FireBolt.png"
+  },
+  "cards": [
+    {
+      "id": "MageArmor",
+      "subject": "A silver-bearded wizard in blue robes surrounded by translucent cyan spectral plate armor forming over his shoulders and chest, shards of hostile arrows bouncing away, moonlit ruined corridor.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A silver-bearded wizard in blue robes surrounded by translucent cyan spectral plate armor forming over his shoulders and chest, shards of hostile arrows bouncing away, moonlit ruined corridor.",
+      "ok": true,
+      "source": "art-source/illustrations/MageArmor.png"
+    },
+    {
+      "id": "MagicMissile",
+      "subject": "Three distinct luminous violet magic missiles curve out of a wizard's open palm along different paths and converge on a stone gargoyle, night sky and ruined arches.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Three distinct luminous violet magic missiles curve out of a wizard's open palm along different paths and converge on a stone gargoyle, night sky and ruined arches.",
+      "ok": true,
+      "source": "art-source/illustrations/MagicMissile.png"
+    },
+    {
+      "id": "ArcaneRecovery",
+      "subject": "Quiet close view of a weary wizard at a stone desk drawing floating sapphire motes from an open spellbook into three dim crystal beads, golden candlelight against blue night.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Quiet close view of a weary wizard at a stone desk drawing floating sapphire motes from an open spellbook into three dim crystal beads, golden candlelight against blue night.",
+      "ok": true,
+      "source": "art-source/illustrations/ArcaneRecovery.png"
+    },
+    {
+      "id": "RayOfFrost",
+      "subject": "A thin razor-bright cyan beam from a blue-robed wizard's fingertip freezes a charging goblin's boots into jagged ice across a dark dungeon floor.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A thin razor-bright cyan beam from a blue-robed wizard's fingertip freezes a charging goblin's boots into jagged ice across a dark dungeon floor.",
+      "ok": true,
+      "source": "art-source/illustrations/RayOfFrost.png"
+    },
+    {
+      "id": "ShockingGrasp",
+      "subject": "Extreme action close-up of a blue-robed wizard's hand gripping a rusty armored enemy's shoulder, branching blue-white lightning crawling across metal, dark stone background.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Extreme action close-up of a blue-robed wizard's hand gripping a rusty armored enemy's shoulder, branching blue-white lightning crawling across metal, dark stone background.",
+      "ok": true,
+      "source": "art-source/illustrations/ShockingGrasp.png"
+    },
+    {
+      "id": "AcidSplash",
+      "subject": "Two bright green globes of acid splash against a pair of animated stone sentinels, luminous emerald spray and dissolving stone dust, wizard hand foreground.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Two bright green globes of acid splash against a pair of animated stone sentinels, luminous emerald spray and dissolving stone dust, wizard hand foreground.",
+      "ok": true,
+      "source": "art-source/illustrations/AcidSplash.png"
+    },
+    {
+      "id": "Shield",
+      "subject": "A wizard raises an open hand as a curved translucent teal magical shield stops a heavy incoming axe inches from his face, forceful diagonal impact and sparks.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A wizard raises an open hand as a curved translucent teal magical shield stops a heavy incoming axe inches from his face, forceful diagonal impact and sparks.",
+      "ok": true,
+      "source": "art-source/illustrations/Shield.png"
+    },
+    {
+      "id": "ChromaticOrb",
+      "subject": "An enormous opalescent sphere hovering above a wizard's cupped hands splits into red fire, blue frost and violet lightning inside one glasslike orb, abandoned observatory.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An enormous opalescent sphere hovering above a wizard's cupped hands splits into red fire, blue frost and violet lightning inside one glasslike orb, abandoned observatory.",
+      "ok": true,
+      "source": "art-source/illustrations/ChromaticOrb.png"
+    },
+    {
+      "id": "BurningHands",
+      "subject": "Both open hands of an elderly wizard release a broad fan of orange fire toward shadowy monsters in a narrow dungeon doorway, strong triangular flame silhouette.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Both open hands of an elderly wizard release a broad fan of orange fire toward shadowy monsters in a narrow dungeon doorway, strong triangular flame silhouette.",
+      "ok": true,
+      "source": "art-source/illustrations/BurningHands.png"
+    },
+    {
+      "id": "Thunderwave",
+      "subject": "A blue-robed wizard strikes his staff on stone and a circular blue-white pressure wave throws rubble and cloaked monsters outward, low dramatic ground-level angle.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A blue-robed wizard strikes his staff on stone and a circular blue-white pressure wave throws rubble and cloaked monsters outward, low dramatic ground-level angle.",
+      "ok": true,
+      "source": "art-source/illustrations/Thunderwave.png"
+    },
+    {
+      "id": "FalseLife",
+      "subject": "An elderly wizard clutches a dark glass vial as translucent green ghostly ribs briefly surround his chest, alchemical laboratory, candlelit defiant face, no gore.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard clutches a dark glass vial as translucent green ghostly ribs briefly surround his chest, alchemical laboratory, candlelit defiant face, no gore.",
+      "ok": true,
+      "source": "art-source/illustrations/FalseLife.png"
+    },
+    {
+      "id": "RitualCasting",
+      "subject": "A kneeling blue-robed wizard arranges three glowing crystals in a ritual circle on a ruined stone floor, overhead three-quarter view, candles and starry blue magic.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A kneeling blue-robed wizard arranges three glowing crystals in a ritual circle on a ruined stone floor, overhead three-quarter view, candles and starry blue magic.",
+      "ok": true,
+      "source": "art-source/illustrations/RitualCasting.png"
+    },
+    {
+      "id": "TrueStrike",
+      "subject": "A wizard peers along two extended fingers and a thin golden line reveals the single weak point in a looming armored stone golem, dark chamber, concentrated gaze.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A wizard peers along two extended fingers and a thin golden line reveals the single weak point in a looming armored stone golem, dark chamber, concentrated gaze.",
+      "ok": true,
+      "source": "art-source/illustrations/TrueStrike.png"
+    },
+    {
+      "id": "Fireball",
+      "subject": "A roaring orange fireball blossoms among several shadow monsters inside a cavernous ruined hall, small blue-robed wizard in foreground, huge round blast with swirling flame.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A roaring orange fireball blossoms among several shadow monsters inside a cavernous ruined hall, small blue-robed wizard in foreground, huge round blast with swirling flame.",
+      "ok": true,
+      "source": "art-source/illustrations/Fireball.png"
+    },
+    {
+      "id": "StudySpellbook",
+      "subject": "Close view of a weathered wizard intensely studying a huge open illuminated spellbook, levitating parchment leaves and golden magical diagrams without readable text, library shelves.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Close view of a weathered wizard intensely studying a huge open illuminated spellbook, levitating parchment leaves and golden magical diagrams without readable text, library shelves.",
+      "ok": true,
+      "source": "art-source/illustrations/StudySpellbook.png"
+    },
+    {
+      "id": "WitchBolt",
+      "subject": "A continuous twisting violet lightning tether joins a wizard's staff to a monstrous silhouette, electrical arcs coiling around the tether, stormy cavern.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A continuous twisting violet lightning tether joins a wizard's staff to a monstrous silhouette, electrical arcs coiling around the tether, stormy cavern.",
+      "ok": true,
+      "source": "art-source/illustrations/WitchBolt.png"
+    },
+    {
+      "id": "MistyStep",
+      "subject": "A blue-robed wizard dissolves into silver mist beside an incoming sword and reappears a few paces away on a stone stair, a single clear magical movement trail.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A blue-robed wizard dissolves into silver mist beside an incoming sword and reappears a few paces away on a stone stair, a single clear magical movement trail.",
+      "ok": true,
+      "source": "art-source/illustrations/MistyStep.png"
+    },
+    {
+      "id": "ScorchingRay",
+      "subject": "Three clearly separated golden-orange rays shoot from a wizard's glowing palm toward an armored skeletal sentinel, dramatic diagonal lines through blue smoke.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Three clearly separated golden-orange rays shoot from a wizard's glowing palm toward an armored skeletal sentinel, dramatic diagonal lines through blue smoke.",
+      "ok": true,
+      "source": "art-source/illustrations/ScorchingRay.png"
+    },
+    {
+      "id": "Web",
+      "subject": "A giant luminous silver magical spiderweb stretches across a ruined archway trapping two snarling fantasy monsters, wizard weaving threads between raised fingers in foreground.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A giant luminous silver magical spiderweb stretches across a ruined archway trapping two snarling fantasy monsters, wizard weaving threads between raised fingers in foreground.",
+      "ok": true,
+      "source": "art-source/illustrations/Web.png"
+    },
+    {
+      "id": "MirrorImage",
+      "subject": "A central elderly wizard with three translucent blue mirror duplicates arranged around him, reflected enemies uncertain where to strike, moonlit hall and broken mirrors.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A central elderly wizard with three translucent blue mirror duplicates arranged around him, reflected enemies uncertain where to strike, moonlit hall and broken mirrors.",
+      "ok": true,
+      "source": "art-source/illustrations/MirrorImage.png"
+    },
+    {
+      "id": "MelfsAcidArrow",
+      "subject": "A vivid emerald translucent arrow launched by a wizard pierces a stone monster's chest armor and blooms into green acid droplets, clear arrow silhouette, dark crypt.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A vivid emerald translucent arrow launched by a wizard pierces a stone monster's chest armor and blooms into green acid droplets, clear arrow silhouette, dark crypt.",
+      "ok": true,
+      "source": "art-source/illustrations/MelfsAcidArrow.png"
+    },
+    {
+      "id": "Counterspell",
+      "subject": "A calm elderly wizard seizes a crimson enemy spell in midair with his cyan glowing hand and unravels it into harmless golden threads, two opposing magic currents.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A calm elderly wizard seizes a crimson enemy spell in midair with his cyan glowing hand and unravels it into harmless golden threads, two opposing magic currents.",
+      "ok": true,
+      "source": "art-source/illustrations/Counterspell.png"
+    },
+    {
+      "id": "DeepMeditation",
+      "subject": "An elderly wizard levitates cross-legged over a dark still pool, an open spellbook and six small cyan lights orbit slowly, tranquil ancient subterranean sanctuary.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: An elderly wizard levitates cross-legged over a dark still pool, an open spellbook and six small cyan lights orbit slowly, tranquil ancient subterranean sanctuary.",
+      "ok": true,
+      "source": "art-source/illustrations/DeepMeditation.png"
+    },
+    {
+      "id": "ArcaneWard",
+      "subject": "A blue-robed wizard stands within layered teal hexagonal magical barriers, battered hostile projectiles suspended outside, floating spellbook at center, defensive calm.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A blue-robed wizard stands within layered teal hexagonal magical barriers, battered hostile projectiles suspended outside, floating spellbook at center, defensive calm.",
+      "ok": true,
+      "source": "art-source/illustrations/ArcaneWard.png"
+    },
+    {
+      "id": "ConeOfCold",
+      "subject": "A wizard extends his staff and a vast pale cyan cone of frost sweeps across several rushing monsters, sharp icy crystalline forms and blowing snow in a stone hall.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A wizard extends his staff and a vast pale cyan cone of frost sweeps across several rushing monsters, sharp icy crystalline forms and blowing snow in a stone hall.",
+      "ok": true,
+      "source": "art-source/illustrations/ConeOfCold.png"
+    },
+    {
+      "id": "SculptSpells",
+      "subject": "A focused wizard carefully bends a raging stream of orange flame around a fragile crystal with both hands, precise sculpted fire ribbons in an arcane workshop.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A focused wizard carefully bends a raging stream of orange flame around a fragile crystal with both hands, precise sculpted fire ribbons in an arcane workshop.",
+      "ok": true,
+      "source": "art-source/illustrations/SculptSpells.png"
+    },
+    {
+      "id": "Disintegrate",
+      "subject": "A thin intensely luminous green beam from a wizard's finger strikes a massive stone golem which breaks into fine drifting golden-gray dust, dramatic restrained scene no gore.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A thin intensely luminous green beam from a wizard's finger strikes a massive stone golem which breaks into fine drifting golden-gray dust, dramatic restrained scene no gore.",
+      "ok": true,
+      "source": "art-source/illustrations/Disintegrate.png"
+    },
+    {
+      "id": "Wish",
+      "subject": "A wizard opens a spellbook beneath a cosmic rift where golden stars and glowing possibilities spiral into his outstretched hands, dreamlike indigo void, wonder and dangerous power.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A wizard opens a spellbook beneath a cosmic rift where golden stars and glowing possibilities spiral into his outstretched hands, dreamlike indigo void, wonder and dangerous power.",
+      "ok": true,
+      "source": "art-source/illustrations/Wish.png"
+    },
+    {
+      "id": "Foresight",
+      "subject": "Close view of a silver-bearded wizard's eyes reflecting branching golden glimpses of possible futures, translucent overlapping scenes of an incoming sword and a safe path, midnight palette.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: Close view of a silver-bearded wizard's eyes reflecting branching golden glimpses of possible futures, translucent overlapping scenes of an incoming sword and a safe path, midnight palette.",
+      "ok": true,
+      "source": "art-source/illustrations/Foresight.png"
+    },
+    {
+      "id": "ChainLightning",
+      "subject": "A jagged brilliant blue-white lightning bolt leaps in a clear zigzag from one stone beast to two others across a ruined chamber, small casting wizard foreground.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A jagged brilliant blue-white lightning bolt leaps in a clear zigzag from one stone beast to two others across a ruined chamber, small casting wizard foreground.",
+      "ok": true,
+      "source": "art-source/illustrations/ChainLightning.png"
+    },
+    {
+      "id": "GlobeOfInvulnerability",
+      "subject": "A blue-robed wizard protected inside a perfect translucent golden-blue sphere as fire lightning and ice crash harmlessly against its outside, dark ruined hall.",
+      "prompt": "Create ONE landscape 4:3 full-bleed fantasy card illustration. Painted gouache and ink, bold readable shapes, textured brush strokes, dramatic magic lighting, rich midnight navy shadows, muted gold costume trim, cyan accents. Elderly silver-bearded wizard with pointed hat and midnight blue robes when present. One strong focal action legible at 250px wide. Narrative environmental painting, NOT a symbol, icon, card layout, grid or logo. No text, letters, captions, border, watermark. Keep important subject within central 80%. Subject: A blue-robed wizard protected inside a perfect translucent golden-blue sphere as fire lightning and ice crash harmlessly against its outside, dark ruined hall.",
+      "ok": true,
+      "source": "art-source/illustrations/GlobeOfInvulnerability.png"
+    }
+  ]
+}
