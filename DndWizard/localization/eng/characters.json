@@ -1,0 +1,15 @@
+{
+  "DNDWIZARD-WIZARD.title": "The Wizard",
+  "DNDWIZARD-WIZARD.titleObject": "the Wizard",
+  "DNDWIZARD-WIZARD.description": "An arcane scholar carrying a spellbook into the Spire.\nCast cantrips, spend spell slots to Upcast, and choose your Concentration.",
+  "DNDWIZARD-WIZARD.pronounSubject": "he",
+  "DNDWIZARD-WIZARD.pronounObject": "him",
+  "DNDWIZARD-WIZARD.pronounPossessive": "his",
+  "DNDWIZARD-WIZARD.possessiveAdjective": "his",
+  "DNDWIZARD-WIZARD.cardsModifierTitle": "Wizard Cards",
+  "DNDWIZARD-WIZARD.cardsModifierDescription": "Wizard cards appear in rewards and shops.",
+  "DNDWIZARD-WIZARD.goldMonologue": "More ink for my spellbook.",
+  "DNDWIZARD-WIZARD.aromaPrinciple": "Prepared?",
+  "DNDWIZARD-WIZARD.banter.alive.endTurnPing": "Your move.",
+  "DNDWIZARD-WIZARD.banter.dead.endTurnPing": "Knowledge endures."
+}

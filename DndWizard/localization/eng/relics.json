@@ -1,0 +1,21 @@
+{
+  "DNDWIZARD-SPELLBOOK.title": "Traveling Spellbook",
+  "DNDWIZARD-SPELLBOOK.description": "Spell Slots: {Current}/{Capacity}. Start your run with 6 slots; slots persist across combats. Choosing Rest restores all slots; Smith does not.\nSpellbook Lv.{Level}; research {Research}/{Next} (12 = mastered). Victories: normal +1, elite +2, boss +3. Level at 3/7/12 XP, gaining +1 capacity and filling only that new slot. Lv.3 lowers Overcast HP per missing slot from 4 to 3. Lv.4 unlocks tier 4. Current maximum tier {MaxTier}; Overcast costs {BloodCost} HP per missing slot, once per combat.\nOnce per turn: every two Cantrips recover 1 Spell Slot. Incomplete progress persists across turns.",
+  "DNDWIZARD-SPELLBOOK.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-PEARL_OF_POWER.title": "Pearl of Power",
+  "DNDWIZARD-PEARL_OF_POWER.description": "At the start of combat, recover 2 Spell Slots, up to your capacity.",
+  "DNDWIZARD-PEARL_OF_POWER.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-RUNIC_FOCUS.title": "Runic Focus",
+  "DNDWIZARD-RUNIC_FOCUS.description": "Whenever you Upcast, gain 2 Block.",
+  "DNDWIZARD-RUNIC_FOCUS.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.title": "Expanded Grimoire",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.description": "Increase Spell Slot capacity by 2. Does not immediately recover slots.",
+  "DNDWIZARD-EXPANDED_GRIMOIRE.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-CAMPFIRE_INCENSE.title": "Campfire Incense",
+  "DNDWIZARD-CAMPFIRE_INCENSE.description": "When you choose Rest at a campfire, heal 6 additional HP.",
+  "DNDWIZARD-CAMPFIRE_INCENSE.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-EFFICIENT_FOCUS.title": "Efficient Focus",
+  "DNDWIZARD-EFFICIENT_FOCUS.description": "Your first Upcast each combat costs 1 fewer Spell Slot, minimum 0. Base casting does not use this discount.",
+  "DNDWIZARD-EFFICIENT_FOCUS.flavor": "Knowledge is power. Power takes preparation.",
+  "DNDWIZARD-SPELLBOOK.restSiteHealText": "Restore all Spell Slots."
+}
