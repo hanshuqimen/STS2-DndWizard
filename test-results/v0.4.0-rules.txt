@@ -1,0 +1,1 @@
+PASS: 5339 offline rule assertions; no game assemblies loaded.

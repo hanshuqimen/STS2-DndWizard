@@ -1,0 +1,12 @@
+{
+  "scope": "offline content and resource validation only; no in-game tests",
+  "cards": 37,
+  "unique_card_illustrations": 37,
+  "powers": 11,
+  "relics": 6,
+  "languages": [
+    "eng",
+    "zhs"
+  ],
+  "errors": []
+}
